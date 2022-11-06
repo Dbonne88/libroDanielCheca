@@ -7,6 +7,6 @@ chapters:
 - file: markdown
 - file: notebooks
 - file: markdown-notebooks
-- file: PRIMERA MODIFICACION
-- file: SEGUNDA MODIFICACION
+- file: html/1modificacion.html
+- file: html/2modificacion.html
 
